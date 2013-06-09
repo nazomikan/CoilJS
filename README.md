@@ -12,7 +12,7 @@ Coil is a simple library to control the flow.
 
 On server install Coil via npm first
 
-    npm install tube
+    npm install coil
 
 and then include it in your project with:
 
