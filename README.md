@@ -5,12 +5,12 @@ Coil
 
 ## Description
 
-Tube is a simple library to control the flow.
+Coil is a simple library to control the flow.
 
 
 ## Usage
 
-On server install Tube via npm first
+On server install Coil via npm first
 
     npm install tube
 
