@@ -1,0 +1,27 @@
+{
+  "name": "coil",
+  "version": "0.0.0",
+  "description": "flow controll module",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nazomikan/CoilJS.git"
+  },
+  "keywords": [
+    "async",
+    "parallel",
+    "flow",
+    "stack",
+    "coil"
+  ],
+  "author": "nazomikan",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
